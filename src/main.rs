@@ -2,7 +2,7 @@
 #![allow(dead_code)]
 #![allow(unused_imports)]
 // modules are defined with mod keyword and it's name
-// modules can have other modules  as well as structs, enums, constants, traits or functions
+// modules can have other modules as well as structs, enums, constants, traits or functions
 // You can organize code by splitting it into multiple modules
 
 // Module System
